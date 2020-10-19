@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ExoFruit
 {
-    class Product
+    public class Product
     {
         private string name;
         private double price;
