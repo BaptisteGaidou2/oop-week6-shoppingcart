@@ -4,22 +4,14 @@ using System.Text;
 
 namespace ExoFruit
 {
-    class Fruit
+    class Product
     {
         private string name;
         private double price;
-        public Fruit(string fruitName)
+        public Product(string fruitName,double fruitPrice)
         {
-            name = fruitName;
-            switch (Name)
-            {
-                case "apple":
-                    price = 0.6;
-                    break;
-                case "orange":
-                    price = 0.25;
-                    break;
-            }
+            name = fruitName;           
+            price = fruitPrice;
         }
         public string Name
         {
