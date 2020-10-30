@@ -1,0 +1,11 @@
+C:\Users\Baptiste\Desktop\ESILV  A3 S1\DS&A\Cours5\PriorityCall\PriorityCall\bin\Debug\netcoreapp2.1\PriorityCall.deps.json
+C:\Users\Baptiste\Desktop\ESILV  A3 S1\DS&A\Cours5\PriorityCall\PriorityCall\bin\Debug\netcoreapp2.1\PriorityCall.runtimeconfig.json
+C:\Users\Baptiste\Desktop\ESILV  A3 S1\DS&A\Cours5\PriorityCall\PriorityCall\bin\Debug\netcoreapp2.1\PriorityCall.runtimeconfig.dev.json
+C:\Users\Baptiste\Desktop\ESILV  A3 S1\DS&A\Cours5\PriorityCall\PriorityCall\bin\Debug\netcoreapp2.1\PriorityCall.dll
+C:\Users\Baptiste\Desktop\ESILV  A3 S1\DS&A\Cours5\PriorityCall\PriorityCall\bin\Debug\netcoreapp2.1\PriorityCall.pdb
+C:\Users\Baptiste\Desktop\ESILV  A3 S1\DS&A\Cours5\PriorityCall\PriorityCall\obj\Debug\netcoreapp2.1\PriorityCall.csprojAssemblyReference.cache
+C:\Users\Baptiste\Desktop\ESILV  A3 S1\DS&A\Cours5\PriorityCall\PriorityCall\obj\Debug\netcoreapp2.1\PriorityCall.csproj.CoreCompileInputs.cache
+C:\Users\Baptiste\Desktop\ESILV  A3 S1\DS&A\Cours5\PriorityCall\PriorityCall\obj\Debug\netcoreapp2.1\PriorityCall.AssemblyInfoInputs.cache
+C:\Users\Baptiste\Desktop\ESILV  A3 S1\DS&A\Cours5\PriorityCall\PriorityCall\obj\Debug\netcoreapp2.1\PriorityCall.AssemblyInfo.cs
+C:\Users\Baptiste\Desktop\ESILV  A3 S1\DS&A\Cours5\PriorityCall\PriorityCall\obj\Debug\netcoreapp2.1\PriorityCall.dll
+C:\Users\Baptiste\Desktop\ESILV  A3 S1\DS&A\Cours5\PriorityCall\PriorityCall\obj\Debug\netcoreapp2.1\PriorityCall.pdb
