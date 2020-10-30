@@ -8,9 +8,9 @@ namespace ExoFruit
         //test
         static void Main(string[] args)
         {
-            //yo
-            //yo1gvtgtfefqezf
-            //tdbxhdvbgtvbsrgvregtev
+            //yommm
+            //yo1gvtgtfefqezfthth
+            //tdbxhdvbgtvbsrgvregtevrgrgrg
             Product orange = new Product("orange",0.2);
             Product apple = new Product("apple",0.4);
             Product banana = new Product("banana", 0.15);
